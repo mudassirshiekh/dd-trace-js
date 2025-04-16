@@ -65,6 +65,7 @@ Changes associated with each individual release are documented on the [GitHub Re
 
 
 ## Development and Contribution
+## By Mudassir Alam
 
 Please read the [CONTRIBUTING.md](https://github.com/DataDog/dd-trace-js/blob/master/CONTRIBUTING.md) document before contributing to this open source project.
 
